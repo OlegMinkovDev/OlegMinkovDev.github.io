@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+           {
+             "appID": "343BCD5QQA.com.minkov.dev.universal-links",
+             "paths": ["*"]
+           }
+       ]
+   }
+}
